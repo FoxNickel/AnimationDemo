@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--动画列表，即要依次显示的图片-->
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--item即为要显示的item-->
+    <item
+        android:drawable="@drawable/pic01"
+        android:duration="3000"/>
+
+    <item
+        android:drawable="@drawable/pic02"
+        android:duration="3000"/>
+
+    <item
+        android:drawable="@drawable/pic03"
+        android:duration="3000"/>
+
+    <item
+        android:drawable="@drawable/pic04"
+        android:duration="3000"/>
+
+    <item
+        android:drawable="@drawable/pic05"
+        android:duration="3000"/>
+
+    <item
+        android:drawable="@drawable/pic06"
+        android:duration="3000"/>
+
+</animation-list>
